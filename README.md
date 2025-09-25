@@ -73,5 +73,5 @@ Average rating of Chocolate Latte
 Employees handling the most orders
 
 ## ⚠️ Disclaimer
-The data used in this Power BI dashboard is not real and is for illustrative and educational purposes only. Any resemblance to actual persons, companies, or events is purely coincidental.
+The data used in this SQL is not real and is for illustrative and educational purposes only. Any resemblance to actual persons, companies, or events is purely coincidental.
 
